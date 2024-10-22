@@ -1,0 +1,8 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"J1","Raspberry_Pi_2_3","https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf","Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical","1",""
+"J2,J3,J4","Conn_01x06_Socket","~","ZHpretty:Connector_JST.prettyJST_ZH_B6B-ZR_1x06_P1.50mm_Vertical","3",""
+"J6","Conn_01x02_Pin","~","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","1",""
+"M1","Motor_Servo","http://forums.parallax.com/uploads/attachments/46831/74481.png","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","1",""
+"R1","R","~","Resistor_SMD:R_0805_2012Metric","1",""
+"S1","01×06","~","ZHpretty:Connector_JST.prettyJST_ZH_B6B-ZR_1x06_P1.50mm_Vertical","1",""
+"SW1","SW_Push","~","ZHpretty:PushButton","1",""

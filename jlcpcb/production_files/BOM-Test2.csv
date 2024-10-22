@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,LCSC
+100Ω,R2,R_0805_2012Metric,C1015
+SW_Push,SW1_GPIO8,PushButton,C318884
+1.5kΩ,R1,R_0805_2012Metric,C4310
+Motor_Servo,M1_GPIO23,PinHeader_1x03_P2.54mm_Vertical,C49257
+Conn_01x02_Pin,Fan1,PinHeader_1x02_P2.54mm_Vertical,C5360898
+01×06,J1_GPIO4,PinHeader_1x06_P2.54mm_Vertical,
+Conn_01x06_Socket,J4_GPIO22,PinHeader_1x06_P2.54mm_Vertical,
+LED,D1,LED,
+LED,D4,LED,
+LED,D2,LED,
+LED,D3,LED,
